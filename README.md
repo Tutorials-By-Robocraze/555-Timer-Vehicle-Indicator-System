@@ -25,6 +25,6 @@ In this project, we use a 555 Timer IC to create a vehicle turn signal system wi
 ---
 
 ## Circuit Diagram
-[Vehicle Indicator Circuit](./vehicle indicator_circuit_diagram.png).
+![Vehicle Indicator Circuit](./vehicle indicator_circuit_diagram.png)
 
 ---
